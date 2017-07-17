@@ -17,7 +17,7 @@ export default class SampleReactnative extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native! Sujal. Edited
+          Welcome to React Native! Sujal.
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
